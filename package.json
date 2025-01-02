@@ -1,6 +1,6 @@
 {
-  "name": "paramlabs",
-  "version": "1.0.0",
+  "name": "@paramlabs/ui",
+  "version": "2.0.0",
   "type": "module",
   "exports": {
     ".":{
